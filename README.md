@@ -36,7 +36,7 @@ A menu-driven Student Attendance Management System developed using **Python** an
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/vanshairi/Student-Attendance-Management-System.git
+   git clone https://github.com/vanshairi/student-attendance-management-system.git
    ```
 
 2. Install the required Python package:
